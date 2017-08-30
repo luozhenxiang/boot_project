@@ -1,0 +1,41 @@
+.balance-top{
+	line-height:40px;
+	margin:0 auto;
+	padding:0 30px;
+	border-bottom:1px solid #BFBFBF;
+}
+.balance-top>div:nth-child(1){
+	font-size:16px;
+	color:#E2805B;
+}
+.balance-top>div:nth-child(2){
+	font-size:20px;
+	color:#FB3C3E;
+}
+.user3>ul{
+	margin:0 auto;
+}
+.user3>ul>li{
+	overflow:hidden;
+	height:50px;
+	border-bottom:1px solid #BFBFBF;
+}
+.user3 a>div{
+	height:25px;
+	padding:12px 30px 0;
+}
+.user3 p{
+	line-height:30px;
+	color:#E57236;
+}
+.fl>div{
+	float:left;
+}
+.collect{
+	width:30px;
+	padding-right:10px;
+}
+.bakc{
+	width:12px;
+	float:right;
+}

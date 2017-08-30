@@ -1,0 +1,45 @@
+.nav>.nav-imgr {
+    right: 20px;
+    width: auto;
+    font-size: 20px;
+}
+.nav-imgr a{
+	color:#fff;
+}
+body{
+	background:#fff;
+}
+.hotsearch{
+	overflow:hidden;
+}
+.hotsearch>div:nth-child(1){
+	border:1px solid #7B7B7B;
+	border-radius: 10px;
+	width:20%;
+	text-align:center;
+	line-height: 25px;
+	margin:10px;
+	font-size:15px;
+	color:#A8A8A8;
+}
+.hotsearch>div:nth-child(2)>div{
+	background-color:#D3D3D3;
+	border-radius: 10px;
+	float:left;
+	line-height: 30px;
+	width:25%;
+	color:#6C6C6C;
+	text-align:center;
+	margin:10px;
+
+}
+.history>div:nth-child(1){
+	border:1px solid #7B7B7B;
+	border-radius: 10px;
+	width:20%;
+	text-align:center;
+	line-height: 25px;
+	margin:10px;
+	font-size:15px;
+	color:#A8A8A8;
+}

@@ -1,0 +1,42 @@
+.paihang{
+	overflow:hidden;
+	background-color:#FAAB8D;
+}
+.paihang>div{
+	width:33.33%;
+	float:left;
+	text-align: center;
+	line-height: 25px;
+	color:#fff;
+}
+.paihang>div:nth-child(2){
+	color:#FF3034;
+}
+.paihang i{
+	width:12px;
+	position:relative;
+	top:2px;
+}
+.mony1{
+	position:relative;
+}
+.mony1>div{
+	font-size: 13px;
+
+}
+.mony1>.monyleft>div:nth-child(1){
+	color:#E48A33;
+}
+.mony1>.monyleft>div:nth-child(2){
+	color:#FA3333;
+}
+.monyleft{
+	position:absolute;
+	bottom: 0;
+	left:0;
+}
+.monyright{
+	color:#929292;position:absolute;
+	bottom: 0;
+	right:0;
+}

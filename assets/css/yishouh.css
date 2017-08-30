@@ -1,0 +1,52 @@
+.mony1>div{
+	font-size: 14px;
+}
+.fl{
+	font-size:12px;
+	color:#FE4643;
+}
+.fr{
+	font-size: 14px;
+	color:#868686;
+}
+/*.gr{
+	padding:10px 0;
+}*/
+.grece1{
+	overflow:hidden;
+	font-size:14px;
+	padding:5px 10px;
+}
+.grece1>div:nth-child(1){
+	float:left;
+}
+.grece1>div:nth-child(2){
+	float:right;
+}
+.fot{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.fot>div{
+	text-align: center;
+	font-size:18px;
+	line-height:50px;
+	color:#818181;
+
+}
+.grecewz1>div:nth-child(1){
+	height:50%;
+	/*line-height:30px;*/
+}
+/*.grecewz>.Total{
+	position:relative;
+}
+.grecewz>.Total>div{
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+	width:100%;
+}*/

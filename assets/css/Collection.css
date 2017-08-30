@@ -1,0 +1,23 @@
+.delete{
+	height:100%;
+	width:100px;
+	background-color:#FE3C3C;
+	color:#fff;
+	text-align: center;
+	float:right;
+	position:absolute;
+	right:-100px;
+	padding:15% 0 0;
+}
+
+.gr{
+	overflow:hidden;
+	position:relative;
+}
+.grece{
+	float:left;
+	width:100%;
+}
+.delete1{
+		right:0px;
+}

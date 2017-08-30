@@ -1,0 +1,33 @@
+.grecewz>div:nth-child(1){
+	color:#FE6F75;
+}
+.mony2>div{
+	font-size: 12px;
+}
+.Total>.fl{
+	color:#F31C26;
+}
+.Total>.fr{
+	border:1px solid #FC2224;
+	border-radius:10px;
+	line-height: 10px;
+	padding:5px;
+}
+.date{
+	padding-left:10px;
+	background-color:#CECECE;
+	line-height: 25px; 
+}
+.fot{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.fot>div{
+	text-align: center;
+	font-size:18px;
+	line-height:50px;
+	color:#818181;
+	
+}

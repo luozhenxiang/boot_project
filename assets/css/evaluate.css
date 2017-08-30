@@ -1,0 +1,43 @@
+.evaluate{
+	margin-top:20px;
+	background-color:#e54e18;
+
+}
+.evaluate>div{
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+	padding:20px 0;
+	
+}
+.wz{
+	float:left;
+	text-align:center;
+	line-height:35px;
+	color:#fff;
+}
+
+.money{
+	overflow:hidden;
+	float:right;
+	height:70px;
+}
+.money>div{
+	float:left;
+	width:50px;
+	position:relative;
+
+}
+.money>div:nth-child(2){
+	top:33px;
+}
+
+.evalu-btn{
+	width:40%;
+	border:1px solid #e54e18;
+	margin:30px auto 0;
+	text-align: center;
+	color:#e54e18;
+	line-height:30px;
+	border-radius:10px;
+}

@@ -1,0 +1,72 @@
+.comments{
+	border-bottom:1px solid #ddd;
+	padding:0 15px;
+}
+.comments1{
+	padding:10px 0;
+	line-height: 40px;
+	
+	overflow:hidden;
+}
+.comments1 .commimg{
+	width:20%;
+	max-width:50px;
+}
+.comments2{
+	width: 55%;
+	float:left;
+}
+.comments2>div{
+	float:left;
+}
+.comments3{
+	width: 45%;
+	float:right;
+	overflow:hidden;
+}
+.comments3>div{
+	float:left;
+}
+.xinimg{
+	width:50%;
+	max-width:95px;
+	padding:15px 0;
+}
+.comments5{
+	overflow:hidden;
+	padding:10px 0;
+}
+.pri{
+	overflow:hidden;
+	width:40%;
+	float:right;
+}
+.prise{
+	float:left;
+	overflow:hidden;
+}
+.prise>div{
+	width:40%;
+	float:left;
+	line-height: 22px;
+	text-align: center;
+	padding-right:2px;
+}
+.comments4{
+	overflow: hidden;
+}
+.comments4>div{
+	float:left;
+	width:10%;
+}
+.fo{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+}
+.fo>div{
+	line-height: 60px;
+	text-align:center;
+
+}

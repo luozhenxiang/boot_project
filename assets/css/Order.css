@@ -1,0 +1,161 @@
+.nav>.nav-imgr>a {
+    color: #fff;
+}
+body{
+	background-color:#E3E3E3;
+}
+.d-top{
+	margin-top:15px;
+	background-color:#fff;
+	color:#9E9E9E;
+	line-height:25px;
+
+
+}
+.d-top>div{
+	padding:0 10px;
+}
+.top1{
+	font-size:12px;
+	border-bottom:1px solid #D1D1D1;
+}
+.top2{
+	overflow:hidden;
+	position:relative;
+}
+.top2-left{
+	float:left;
+
+}
+.top2-right{
+	float:right;
+	width:15px;
+	position:absolute;
+	top: 10px;
+	right:10px;
+	height:100%;
+}
+/*.top2-right>img{
+	top: 0;
+	bottom:0;
+	margin:auto 0;
+}*/
+
+.d-bot{
+	margin-top:15px;
+	background-color:#fff;
+	color:#9E9E9E;
+	line-height:35px;
+}
+.d-bot>div{
+	padding:0 10px;
+}
+
+.bot1{
+	border-bottom:1px solid #D1D1D1;
+	overflow:hidden;
+}
+.bot1-left{
+	float:left;
+}
+.bot1-right{
+	float:right;
+	overflow:hidden;
+}
+.bot1-right>div{
+	float:left;
+}
+.rightimg{
+	width:10px;
+	padding:8px 0 0 5px;
+}
+.bot2{
+	overflow:hidden;
+}
+.bot2-left{
+	float:left;
+	width:25%;
+}
+.bot2-right{
+	float:right;
+	width:75%;
+}
+.bot2-right>input{
+	width:100%;
+	height:25px;
+	border:none;
+	background-color:transparent;
+}
+.gr{
+	margin-top:15px;
+	background-color:#fff;
+}
+.grecewz{
+	color:#787878;
+}	
+.mony4>div{
+	font-size:13px;
+}
+.Total>div:nth-child(1){
+	color:#FD1C1F;
+}
+.gre{
+	/*position:relative;
+	top:0;
+	bottom:0;*/
+
+}
+/*.radio{
+	position:relative;
+	
+}*/
+.radio>input{
+	position:absolute;
+	top:0;
+	bottom:0;
+	margin:auto 0;
+}
+.greceimg{
+	width:-webkit-calc(30% - 15px);
+	width:calc(30% - 15px);
+	padding-left:15px;}
+
+.fot1{
+	position:fixed;
+	bottom:0;
+	left:0;
+	right:0;
+	overflow:hidden;
+	line-height: 50px
+}
+.fot1 span{
+	color:#F90102;
+}
+.fot1-left{
+	float:left;
+	overflow:hidden;
+	width:-webkit-calc(70% - 20px);
+	width:calc(70% - 20px);
+	background-color:#909090;
+	padding:0 10px;
+
+}
+.fot1-left>div:nth-child(1){
+	float:left;
+}
+.fot1-left>div:nth-child(2){
+	float:right;
+}
+.fot2-right{
+	float:right;
+	width:30%;
+	background-color: #FF6215;
+	color:#fff;
+}
+.fot2-right>div{
+	text-align: center;
+}
+/*.Total span{
+	color:#FD0A0B;
+}
+*/

@@ -1,0 +1,41 @@
+.bank>div{
+	background-color:#7e061f;
+	margin:10px;
+	overflow:hidden;
+	border-radius:10px;
+}
+.bank>div>div{
+	float:left;
+	padding:10px;
+}
+.bank1{
+	max-width:50px;
+	width: -moz-calc(30% - 20px); 
+	width: -webkit-calc(30% - 20px); 
+	width: calc(30% -20px);
+}
+.bank2{
+	width: -moz-calc(70% - 20px); 
+	width: -webkit-calc(70% - 20px); 
+	width: calc(70% -20px);
+}
+.bank2>div{
+	height:25%;
+	line-height: 30px;
+	color:#fff;
+}
+.bank3{
+	background-color:#d6d6d6;
+	height:30px;
+	
+	
+}
+.bank3>div{
+	padding:5px 10px;
+	overflow:hidden;
+
+}
+.bank3>div>div:nth-child(2){
+	width:12px;
+
+}

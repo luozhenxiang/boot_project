@@ -1,0 +1,23 @@
+.btn span{
+	width:15px;
+	height:15px;
+	background-color: #D64F24;
+	text-align: center;
+	color:#fff;
+	line-height: 15px;
+	border-radius:50px;
+}
+.btn input{
+	width:15px;
+	text-align: center;
+	border:none;
+}
+.fot1{
+	bottom:60px;
+}
+.fot1-left>div{
+	color:#fff;
+}
+.Greceipt{
+	padding-bottom:110px;
+}
